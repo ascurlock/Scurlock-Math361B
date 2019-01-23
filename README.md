@@ -1,6 +1,4 @@
 # Scurlock-Math361B
-This is the remove repository for Dr. Collins' Math 361B course.
-
-Here are some changes that i'm making for my first comment!!
-
-This is my next comment!!
+My UMW email is: ascurloc@mail.umw.edu,
+my favorite math class so far has been calculus 2,
+and my favorite dessert is tiramisu.
