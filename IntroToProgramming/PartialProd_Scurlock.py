@@ -7,19 +7,18 @@ Created on Fri Feb  1 20:14:02 2019
 """
 #%%
 import numpy as np
-N=95500
+N=1000000
 pn_values = np.empty([N])
 pn = 1
-
 
 #First function
 for ii in range(2,N+1):
     pn *= (ii**3 - 1)/(ii**3 + 1) 
     pn_values[ii-2] = pn
 
-print("The first 15 values of pn are ", pn_values[:15])
-print()
-print("The last 15 values of pn are ", pn_values[-45:])
+#print("The first 15 values of pn are ", pn_values[:15])
+#print()
+print("The last 15 values of pn are ", pn_values[-15:])
 
 
 #%%
